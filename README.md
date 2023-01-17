@@ -3,5 +3,7 @@ Deep learning is a subset of machine learning in artificial intelligence that ha
 
 
 + Natural Language Processing with Probabilistic Models
++ Deep Learning Specialization
++ Natural Language Processing Specialization
 
 
